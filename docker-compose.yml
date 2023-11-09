@@ -1,0 +1,11 @@
+version: "3"
+
+services: 
+  catalog-pg:
+    image: bitnami/postgresql
+    ports:
+      - 5433:5432
+    environment:
+      - POSTGRESQL_USERNAME=root
+      - POSTGRESQL_PASSWORD=131313
+      - POSTGRESQL_DATABASE=catalogdb
