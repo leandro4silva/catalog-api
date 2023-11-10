@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projetos\\dotnet\\ApiCatalog\\ApiCatalog.csproj": {}
+    "C:\\Projetos\\dotnet\\ApiCatalog\\ApiCatalog.csproj": {}
   },
   "projects": {
-    "c:\\Projetos\\dotnet\\ApiCatalog\\ApiCatalog.csproj": {
+    "C:\\Projetos\\dotnet\\ApiCatalog\\ApiCatalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projetos\\dotnet\\ApiCatalog\\ApiCatalog.csproj",
+        "projectUniqueName": "C:\\Projetos\\dotnet\\ApiCatalog\\ApiCatalog.csproj",
         "projectName": "ApiCatalog",
-        "projectPath": "c:\\Projetos\\dotnet\\ApiCatalog\\ApiCatalog.csproj",
+        "projectPath": "C:\\Projetos\\dotnet\\ApiCatalog\\ApiCatalog.csproj",
         "packagesPath": "C:\\Users\\leasil\\.nuget\\packages\\",
-        "outputPath": "c:\\Projetos\\dotnet\\ApiCatalog\\obj\\",
+        "outputPath": "C:\\Projetos\\dotnet\\ApiCatalog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leasil\\AppData\\Roaming\\NuGet\\NuGet.Config"
