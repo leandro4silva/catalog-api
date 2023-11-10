@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YEBaBAMnYtsF2ulKT1mx5SEPiIqHitO3v9n85/lG3Fwt3HZWIcXYQGmSGarJa4XsPg99BMvAvssVg60dUrljTQ==",
+  "dgSpecHash": "SPvj3qL2BE5amO5nwUdJ4bbsffRgdj3sjQocDaA8nwEngBFoTmdBtqdCUkeXh8WUlytH2hg/lNITnUF4WveXGQ==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\dotnet\\ApiCatalog\\ApiCatalog.csproj",
+  "projectFilePath": "c:\\Projetos\\dotnet\\ApiCatalog\\ApiCatalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leasil\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\leasil\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",

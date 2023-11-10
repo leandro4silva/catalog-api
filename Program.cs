@@ -10,7 +10,6 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-
 string pgSqlConnection = builder.Configuration.GetConnectionString("DefaultConnection") ?? ""; 
 
 if(pgSqlConnection == ""){
