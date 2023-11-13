@@ -17,7 +17,7 @@ namespace ApiCatalog.Controllers
 
         [HttpGet]
         public ActionResult<IEnumerable<Product>> Get(){
-            var products = _context.Products.ToList();
+            var products = _context.Products.AsNoTracking().ToList();
 
             if(products is null){
                 return NotFound("Resource Not Found.");
@@ -29,7 +29,7 @@ namespace ApiCatalog.Controllers
 
         [HttpGet("{id:int}", Name="product")]
         public ActionResult<Product> Get(int id){
-            var product = _context.Products.FirstOrDefault(product => product.Id == id);
+            var product = _context.Products.AsNoTracking().FirstOrDefault(product => product.Id == id);
             
             if(product == null){
                 return NotFound("Resource Not Found");
